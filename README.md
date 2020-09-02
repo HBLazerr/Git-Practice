@@ -1,2 +1,2 @@
 # Git_Practice
-By: Daniel Chavez
+By Daniel Chavez
